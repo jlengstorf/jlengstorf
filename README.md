@@ -4,4 +4,4 @@ Hi. I’m Jason. I build lots of demos on this account and the [@learnwithjason]
 
 I work at [Netlify](https://www.netlify.com/?utm_source=github&utm_medium=gh-profile-jl&utm_campaign=devex) as a Principal Developer Experience Engineer. For more information about me (and a whole lot of shenanigans), check out [jason.af](https://www.jason.af/).
 
-I have been booped on the nose <!-- boop-counter -->0<!-- /boop-counter --> times. <small>([why?](https://www.learnwithjason.dev/github-automation-with-octokit))</small>
+I have been booped on the nose <!-- boop-counter -->1<!-- /boop-counter --> times. <small>([why?](https://www.learnwithjason.dev/github-automation-with-octokit))</small>
